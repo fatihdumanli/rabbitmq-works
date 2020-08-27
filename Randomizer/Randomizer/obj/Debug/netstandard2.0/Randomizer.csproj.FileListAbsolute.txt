@@ -1,0 +1,9 @@
+C:\Users\fatih\source\repos\rabbitmq-tutorials\Randomizer\Randomizer\bin\Debug\netstandard2.0\Randomizer.deps.json
+C:\Users\fatih\source\repos\rabbitmq-tutorials\Randomizer\Randomizer\bin\Debug\netstandard2.0\Randomizer.dll
+C:\Users\fatih\source\repos\rabbitmq-tutorials\Randomizer\Randomizer\bin\Debug\netstandard2.0\Randomizer.pdb
+C:\Users\fatih\source\repos\rabbitmq-tutorials\Randomizer\Randomizer\obj\Debug\netstandard2.0\Randomizer.csprojAssemblyReference.cache
+C:\Users\fatih\source\repos\rabbitmq-tutorials\Randomizer\Randomizer\obj\Debug\netstandard2.0\Randomizer.AssemblyInfoInputs.cache
+C:\Users\fatih\source\repos\rabbitmq-tutorials\Randomizer\Randomizer\obj\Debug\netstandard2.0\Randomizer.AssemblyInfo.cs
+C:\Users\fatih\source\repos\rabbitmq-tutorials\Randomizer\Randomizer\obj\Debug\netstandard2.0\Randomizer.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\rabbitmq-tutorials\Randomizer\Randomizer\obj\Debug\netstandard2.0\Randomizer.dll
+C:\Users\fatih\source\repos\rabbitmq-tutorials\Randomizer\Randomizer\obj\Debug\netstandard2.0\Randomizer.pdb
