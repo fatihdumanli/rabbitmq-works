@@ -1,0 +1,16 @@
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.csprojAssemblyReference.cache
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.AssemblyInfoInputs.cache
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.AssemblyInfo.cs
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.exe
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.deps.json
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.runtimeconfig.json
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.runtimeconfig.dev.json
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.dll
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.pdb
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.csproj.CopyComplete
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.dll
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.pdb
+C:\Users\fatih\source\repos\rabbitmq-tutorials\RPC\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.genruntimeconfig.cache
